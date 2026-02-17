@@ -1,0 +1,24 @@
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.DS_Store
+
+# Node.js
+node_modules/
+dashboard/.next/
+dashboard/.env.local
+dashboard/.env*
+
+# Test videos and large data
+test_videos/
+
+# OS files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+test_videos/
