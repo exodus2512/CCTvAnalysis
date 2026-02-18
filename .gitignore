@@ -13,12 +13,22 @@ node_modules/
 dashboard/.next/
 dashboard/.env.local
 dashboard/.env*
+frontend/.next/
+frontend/.env.local
+frontend/.env*
+.vercel
 
 # Test videos and large data
 test_videos/
+backend/uploaded_videos/
+
 
 # OS files
 Thumbs.db
 ehthumbs.db
 Desktop.ini
-test_videos/
+
+# Keep example files
+!.env.example
+!backend/.env.example
+!frontend/.env.examplebackend/uploaded_videos/
